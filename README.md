@@ -10,13 +10,15 @@ Make sure you have the following installed:
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
+   ```terminal
    git clone https://github.com/your-username/ReactFoodOrder.git
    cd ReactFoodOrder
-   cd frontend
+2. **Install dependencies:**
+   ```terminal
    npm install
-    npm start
-Another terminal(keep it running)
+   npm run dev
+3. **set up backend:**
+   ```terminal
    cd backend
    npm install
    npm start
